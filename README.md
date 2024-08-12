@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sathya Sai Jashwanth Boppana</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate Devops Engineer👷 from USA</h3>
 
 - 🌱 I’m currently learning **Devops,kubernetes**
 
